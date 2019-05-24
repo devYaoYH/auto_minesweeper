@@ -8,12 +8,12 @@
         },
         "GoodBot":
         {
-            "type": "python3",
-            "cmd": "mcts_ucb.py 48"
+            "type": "",
+            "cmd": "./mcts"
         }
     },
     "config":
     {
-        "games": "10"
+        "games": "1"
     }
 }
